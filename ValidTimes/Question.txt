@@ -1,0 +1,8 @@
+Given four digits, count how many valid times can be displayed on a digital clock(in 24-hour format) using those digits. 
+The earliest time is 00:00 and the latest time is 23:59.
+Write a Function:
+    def solution(A,B,C,D)
+that, given four integers A,B,C and D (describing the four digits), returns the number of valid times that can be displayed on a digital clock.
+
+Examples:
+1. Given 
